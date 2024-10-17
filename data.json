@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "role": "Admin"
+        },
+        {
+            "username": "milo",
+            "password": "milo123",
+            "role": "Importer"
+        },
+        {
+            "username": "anna",
+            "password": "anna123",
+            "role": "Employee"
+        },
+        {
+            "username": "lili",
+            "password": "lili123",
+            "role": "Importer"
+        }
+    ],
+    "shop": {
+        "products": [
+            {
+                "name": "Car",
+                "price": 15.0
+            },
+            {
+                "name": "Ball",
+                "price": 10.0
+            },
+            {
+                "name": "Cookies",
+                "price": 5.0
+            },
+            {
+                "name": "Lego",
+                "price": 35.0
+            },
+            {
+                "name": "Sweet",
+                "price": 8.0
+            },
+            {
+                "name": "Water",
+                "price": 3.0
+            },
+            {
+                "name": "Phone",
+                "price": 500.0
+            },
+            {
+                "name": "cola",
+                "price": 3.0
+            }
+        ],
+        "balance": 130.0
+    }
+}
